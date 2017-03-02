@@ -1,89 +1,119 @@
 
 
-img.align-center {
+
+.align-center {
 	display:block;
 	margin: 0px auto;
 }
 
-img.large {
+.large {
 	width: 800px;
 	height: 230px;
 	border-radius: 50px;
 }
 
-img.medium {
+.medium {
 	width: 750px;
 	height: 300px;
 	border-radius: 50px;
 }
 
-img.small {
+.small {
 	width: 300px;
 	height: 400px;
 	border-radius: 50px;
 }
 
+
+
 body {
-    font-size: 18px;
-    font-family: "Give You Glory";
+   padding: 50px 0;
+   font-size: 22px;
+   font-family: "Neucha", cursive, sans-serif;
+   font-style: normal;
+   font-weight: 300;
+   color: #616161;
+   line-height: 25px;
+   background-image: url("../images/herz.gif");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: center bottom;
+}
+
+#navigation  {
+    font-size: 20px;
+    font-family: "Neucha", Arial, sans-serif;
+    color: #000000;
     font-style: normal;
-    font-weight: 400;
-	background-image: url("../images/herz.gif");
-	background-repeat: no-repeat;
-	background-position: center bottom;
-	padding: 80px 80px;			
+    text-align: center;
+    font-weight: 300;
+   
+   
 }
 
 
-nav {
-    font-size: 18px;
-    font-family: "Give You Glory";
-    font-style: bold;
-    font-weight: 400;
+ul {
+	width: 900px;
+	margin: 10px auto 10px auto;
+	font-family: "Neucha", Arial, sans-serif;
+	text-align: center;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	color: #000000;
 }
+
 
 h1 {
-	font-family: "Give You Glory";
-	font-size: 48px;
+	font-family: "Give You Glory", Arial, sans-serif;
+	font-size: 45px;
 	font-style: normal;
-	font-weight: 400px;	
+	font-weight: bold;
+	color: #616161;
 }
 
-h2 {
-	font-family:"Give You Glory";
-	font-size:28px;
-	font-style: bold;
-	font-weight: 400px;
+
+h3 {
+	font-family:"Verdana", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 300;
+	color: #616161;
 }
+
 
 p {
 	width: 900px;
 	margin: 20px auto 20px auto;
-	padding: 30px auto 30px auto;
-	text-align: left;
 	font-weight: normal;
 	text-align: justify;
 }
 
-ul {
-	width: 900px;
-	padding: 10px auto 10px auto;
-	margin: 10px auto 10px auto;
-	text-align: center;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 24px;
+a	{
+	color: #616161;
+
 }
 
-a {
-	color: #000000;
+a:link {
 	text-transform: uppercase;
-	text-decoration: none;
-	padding: 6px 18px 5px 18px;
-}
+	text-decoration: underline;
+	padding: 5px 15px 5px 15px;
+	color: inherit;
+	}
 
-a:hover , a.on {
-	color: #cc3333;
-	background-color: #ffffff;
-}
+a:hover {
+	background: #ffffff;
+	color: red;
+	text-decoration: underline;
+	}
+	
+a:hover:visited {
+	background: #464646;
+    color: white;
+	}
+	
+	a.five:link {color:#ff0000;text-decoration:none;}
+a.five:visited {color:#0000ff;text-decoration:none;}
+a.five:hover {text-decoration:underline;}
+	
 
