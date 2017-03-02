@@ -1,0 +1,45 @@
+
+Fonts actively used in this project
+-----------------------------------
+
+Font name       :   Give You Glory
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Amatic SC
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Annie Use Your Telescope
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Crafty Girls
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Dekko
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Delius
+Font provider   :   google
+
+
+
+******************************************************************************Font name       :   Handlee
+Font provider   :   google
+
+
+
+******************************************************************************
+
+
+
+
+Created by Typecast on 2016/02/28.
