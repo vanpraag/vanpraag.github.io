@@ -24,9 +24,7 @@
 	border-radius: 50px;
 }
 
-#menue, #footer, #banner {
-width: 100%
-}
+
 
 body {
    padding: 50px 0;
@@ -40,6 +38,10 @@ body {
    background-repeat: no-repeat;
    background-attachment: scroll;
    background-position: center bottom;
+}
+
+#menue, #footer, #banner {
+width: 100%
 }
 
 #navigation  {
